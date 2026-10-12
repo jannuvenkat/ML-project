@@ -1,2 +1,3 @@
+in project zip we have requriments.txt that file give to chatgpt and ask i want to install in vs code then chatgpt give comand run the comand in vs code ternimal after instalization of library then :python designpatternprediction.py
 python DesignPatternPrediction.py
 pause
