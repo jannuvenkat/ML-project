@@ -125,6 +125,4 @@ Artificial Intelligence and Machine Learning Student
 
 DVR & Dr. HS MIC College of Technology
 
-## 📄 License
 
-Add a suitable open-source license if you intend to allow others to reuse, modify, or distribute this project.
